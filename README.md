@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+August 1, 2017
 
 ### Student Name:  
-(First and Last Name)
+Jayla Mitchell
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+A movie application built by using API, Ajax, and JSON-formatted data. The user types in a movie and the details of that movie is instantly shown. The information given was retrieved by using the data from another website. To get this data, I recieved an API key from that other service.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://jayla15g.github.io/lesson8_ajax/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. **AJAX (Asynchronous JavaScript and XML)** allows us to load data from the server without a browser page refresh.
+2. **JSON (JavaScript Object Notation and XML)** is a lightweight text-based open standard designed for human-readable data interchange. 
+3. **API Key** is a unique identifier and a secret token for aunthentication.
